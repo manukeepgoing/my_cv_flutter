@@ -1,30 +1,16 @@
-# my_cv_flutter
+# Mi CV Personalizado con Flutter
 
-A new Flutter project.
+Este es un proyecto de CV personalizado desarrollado utilizando el framework Flutter. La aplicación muestra mi curriculum de una manera más interactiva y organizada que en una hoja de papel. Si quieres saber más información igualmente puedes contactar conmigo.
 
-## Getting Started
+## Características Principales
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+- Interfaz de usuario intuitiva y atractiva.
+- Personalización completa del contenido del CV.
+- Incluídos los datos del contacto dentro de la propia aplicación.
+- Integración con Firebase para distribuir pruebas de la aplicación.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo en Vivo
 
-## Assets
+Si quieres probar la aplicación en tu propio dispositivo contacta conmigo directamente, que te puedo pasar un enlace de descarga de firebase para que puedas probarla. A partir de ahí los pasos a seguir son: 
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+¡Y eso es todo! Ahora puedes explorar y utilizar la aplicación en tu propio dispositivo.
