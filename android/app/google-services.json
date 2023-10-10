@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800031039098",
+    "project_id": "my-cv-flutter-28d44",
+    "storage_bucket": "my-cv-flutter-28d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800031039098:android:27e38cb73174b1ad6465c3",
+        "android_client_info": {
+          "package_name": "com.example.my_cv_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWODfbQEshCWdSXyi_T5zq7aIvEsesOTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
